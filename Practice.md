@@ -18,7 +18,7 @@
 |14|[@sunlight21](https://github.com/sunlight21)|#12 Справочник по "Игре престолов"||1. <br>2.|
 |15|[@TairusDjons](https://github.com/TairusDjons)|#7 Гайд по персонажам Marvel||1. <br>2.|
 |16|[@Balagnese](https://github.com/Balagnese)|#14 Редактор конспектов||1. <br>2.|
-|17|[@Decim413](https://github.com/Decim413)|#9 Файловый менеджер VK||1. <br>2.|
+|17|[@Decim413](https://github.com/Decim413)|#9 Файловый менеджер VK|https://github.com/Decim413/VKFileManager|1. <br>2.|
 |18|[@sid0adams](https://github.com/sid0adams)|#18 Интернет радио||1. <br>2.|
 |19|[@PigOnTheWing](https://github.com/PigOnTheWing)|#10 Гайд по уровням жизни в городах||1. <br>2.|
 |20|[@Tenfleques](https://github.com/Tenfleques)|#13 Отображение изображений по настроению||1.(9)@Neprincessa <br>2.|
